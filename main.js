@@ -1,5 +1,5 @@
 const hamburger = document.querySelector('.hamburger');
-const hamburger_icon = hamburger.querySelector('span');
+const hamburger_icon = hamburger.querySelector('.material-icons');
 const mobile_menu = document.querySelector('.mobile-menu');
 
 hamburger.addEventListener('click', () => {
