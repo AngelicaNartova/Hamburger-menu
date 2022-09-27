@@ -1,3 +1,5 @@
+# Hamburger menu
+
 This project demonstrates a responsive navigation menu which becomes a hamburger button in the
 mobile version.
 
